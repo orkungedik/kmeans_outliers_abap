@@ -3,7 +3,7 @@ Related article, below;
 
 https://blogs.sap.com/2022/02/03/k-means-outlier-detection-algorithm-abap-implementation/
 
-This is an ABAP implementation of k-Means algorithm. Import files under "/transport_requests" into you SAP development or sanbox system
+This is an ABAP implementation of k-Means algorithm. Import files under "/transport_requests" into you SAP development or sandbox system
 
 **Objects in transport request**
 
