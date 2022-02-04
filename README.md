@@ -1,4 +1,4 @@
-**ABAP k-means outliers:
+**ABAP k-means outliers:**
 Related article, below;
 
 https://blogs.sap.com/2022/02/03/k-means-outlier-detection-algorithm-abap-implementation/
@@ -6,7 +6,9 @@ https://blogs.sap.com/2022/02/03/k-means-outlier-detection-algorithm-abap-implem
 This is an ABAP implementation of k-Means algorithm. Import files under "/transport_requests" into you SAP system
 
 **Objects in transport request**
+
 **============================**
+
 Class (ABAP Objects) -> ZCL_KMEANS
 
 Program	-> ZKSTOP10_KMEANS_TEST
