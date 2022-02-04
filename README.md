@@ -5,6 +5,7 @@ This is an ABAP implementation of k-Means algorithm. Import files under "/transp
 Objects in transport request
 ============================
 Class (ABAP Objects) -> ZCL_KMEANS
+
 Program	-> ZKSTOP10_KMEANS_TEST
 Table -> ZKS_COL_KMEANS_ATTS
 Table	-> ZKS_COL_KMEANS_CENTROIDS
